@@ -1,0 +1,8 @@
+[package]
+name = "nix-analyze"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rnix = "0.11.0"
+rowan = "0.15.16"
